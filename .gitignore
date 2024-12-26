@@ -1,0 +1,24 @@
+# Node.js (React Frontend)
+node_modules/
+build/
+dist/
+.DS_Store
+.env
+
+# Java (Spring Boot Backend) - Chỉ loại trừ tệp build
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# System files
+Thumbs.db
